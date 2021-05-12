@@ -50,6 +50,11 @@ Run in terminal:
 $ sh download_grid_corpus.sh
 ```
 
+Before moving to processing visual data make sure you have updated version of dlib on your environment or you can install it by running on terminal:
+
+``` bash
+$ conda install dlib
+```
 
 ##### Processing Visual Data
 
